@@ -23,7 +23,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image:url(assents/light-smoke-fragments-black-background.jpg);
+    background-image:url(../assents/light-smoke-fragments-black-background.jpg);
     background-size: cover;
     background-position: top center;
 }
